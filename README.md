@@ -1,0 +1,2 @@
+# MusicMentor-AI-Powered-Tool-for-Tuning-and-Learning-Musical-Instruments
+MusicMentor is an AI-powered web app that helps users tune their instruments and learn to play them. It combines Streamlit for an intuitive interface, LLaMA for personalized guidance, and audio processing tools for real-time feedback. Designed for beginners and experts alike, it offers tailored support to refine musical skills effectively.
